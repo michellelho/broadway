@@ -1,0 +1,56 @@
+html{
+  text-align:center;
+  font-family:Helvetica;
+}
+
+
+a{
+  color:white;
+  font-size:18px;
+  font-weight:bold;
+}
+
+h1{
+  color:white;
+  font-weight:bold;
+  font-size:70px;
+}
+
+
+h2{
+  font-size:32px;
+  font-weight:bold;
+}
+
+
+h3{
+  font-size:23px;
+  font-weight:bold;
+}
+
+p{
+  font-size:14px;
+}
+
+
+h4{
+  font-size:23px;
+  color:white;
+}
+
+
+.invert{
+  background-image:url("../images/clouds.png");
+}
+
+
+.footer{
+  text-align:left;
+  background-color:dimgray;
+  font-size:11px;
+  color:white;
+}
+
+.footer a{
+  font-size:11px;
+}
